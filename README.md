@@ -12,9 +12,16 @@ Analysis and Viz
 Conclusion and Recommendations
 
 <h2>Introduction</h2>
+The project is a part of Google Data Analytics Certification course capstone.
 Welcome to the Cyclistic bike-share analysis case study! This case study, will perform many real-world tasks. In order to answer the key business questions, we will follow the steps of the data analysis process: ask, prepare, process, analyze, share, and act.
 
-<h2>Business Task</h2>
+<h2>Business Task</h2> 
+<p align="left">
+  <img width="220" height="100" src="https://user-images.githubusercontent.com/119749518/211978270-f13d6a73-22f9-40be-bc2c-dfc0aec8a555.png")
+</p>
+  
+How do annual members and casual riders use Cyclistic bikes differently?.
+
 
 
 
