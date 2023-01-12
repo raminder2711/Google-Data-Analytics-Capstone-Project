@@ -21,10 +21,10 @@ Welcome to the Cyclistic bike-share analysis case study! This case study, will p
   <img width="220" height="100" src="https://user-images.githubusercontent.com/119749518/211978270-f13d6a73-22f9-40be-bc2c-dfc0aec8a555.png")
 </p>
   
-How do annual members and casual riders use Cyclistic bikes differently?.
+<b>How do annual members and casual riders use Cyclistic bikes differently?
 
 <h2>Data</h2>
-<b>License</b>: The data has been made available by Motivate International Inc. under below licence.
+<b>License</b>: The data has been made available by Motivate International Inc. under below license.
 
 [Check Here](https://www.divvybikes.com/data-license-agreement)
 
