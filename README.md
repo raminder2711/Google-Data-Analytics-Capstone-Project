@@ -30,9 +30,16 @@ How do annual members and casual riders use Cyclistic bikes differently?.
 
 <b>Our Data Range</b>: October 2022 - November 2022 (1 month data)
 
+<h2>Viz</h2>
 
 
+![Average ride_length](https://user-images.githubusercontent.com/119749518/211985058-d8885540-5664-4136-bb39-8261bff26359.png)
 
+
+![Busiest Days](https://user-images.githubusercontent.com/119749518/211985160-b544ca5d-6f93-487a-8df6-7e394a571873.png)
+
+
+![Favourite Bike](https://user-images.githubusercontent.com/119749518/211985211-4878c09c-bc2d-48bd-9dfa-33887ae136e2.png)
 
 
 
