@@ -4,12 +4,13 @@
 
 <h2>Table of Contents</h2>
 
-Introduction
-Business Task
-Data
-Processing and Cleaning
-Analysis and Viz
-Conclusion and Recommendations
+- Introduction<br>
+
+- Business Task<br>
+- Data<br>
+- Processing and Cleaning<br>
+- Analysis and Viz<br>
+- Conclusion and Recommendations
 
 <h2>Introduction</h2>
 The project is a part of Google Data Analytics Certification course capstone.
