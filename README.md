@@ -1,4 +1,4 @@
-# Google Data Analytics Capstone Project (Excel only)
+# Google Data Analytics Capstone Project (MS Excel and Tableau)
 ![Image_Bike](https://user-images.githubusercontent.com/119749518/211970785-a7ca2157-7010-42d0-8543-e4dea4be6c59.png)
 <h2>Case Study: How Does a Bike-Share Navigate Speedy Success?</h2>
 
@@ -9,8 +9,9 @@
 - Business Task<br>
 - Data<br>
 - Tools<br>
-- Analysis and Viz(Excel)<br>
-- Analysis and Viz(Tableau)<br>
+- Data Cleaning <br>
+- Analysis and Viz(Excel) <br>
+- Analysis and Viz(Tableau) <br>
 - Conclusion and Recommendations
 
 <h2>Introduction</h2>
@@ -25,7 +26,7 @@ Welcome to the Cyclistic bike-share analysis case study! This case study, will p
   
 [Check Here](https://www.divvybikes.com/data-license-agreement)
 
-<b>Our Data Range</b>: October 2022 - November 2022 (1 month data)  
+<b>Our Data Range</b>: October and November 2022 (2 months data)  
   
 <h2>Tools</h2>
 <h3>Data Cleaning Tools</h3>
@@ -34,6 +35,16 @@ Welcome to the Cyclistic bike-share analysis case study! This case study, will p
 <h3>Data Visualisation and Data Analysis Tools</h3>
 - MS Excel<br>
 - Tableau<br>
+
+<h2>Data Cleaning (MS Excel)</h2>
+
+ - It was observed that there were several entries where ride length was 0 (zero), because started at and ended at times were similar. So, that data was <b>deleted</b>.
+
+![Data-Cleaning_ride length 0](https://user-images.githubusercontent.com/119749518/212465117-54ed8505-9dfe-4f53-b8de-802061b0281a.png)
+
+- It was observed that there were some irregularities with time where started time was greater than the ended time of the ride. The same was <b>corrected</b>.
+
+![date greater](https://user-images.githubusercontent.com/119749518/212465365-cb3b9ad5-f863-4ae7-bb97-4769ea172887.png)
 
 <h2>Analysis and Viz (Excel)</h2>
 
@@ -59,17 +70,16 @@ The Favourite bike (irrespective of the type of riders) is the docked bike. The 
 
 <h2>Analysis and Viz (Tableau)</h2>
 
-<h3><I>Day Wise Traffic (Based on Overall Data and sorted by highest to lowest member riders)</I></h3>
-It is observed that Wednesday and Thursday generates high traffic for member and casual riders with <b>46,806 and 17,740 riders</b> respectively.
-  
-![Day wise Traffic](https://user-images.githubusercontent.com/119749518/212463475-09711153-d2f4-4536-a725-5ebedd917f66.png)
+<h3><I>Day Wise Traffic (Based on Overall Data and sorted by highest to lowest casual riders)</I></h3>
+It is observed that Wednesday and Saturday generates high traffic for member and casual riders with <b>95,069 and 63,277 riders</b> respectively.
+
+![Day wise Traffic](https://user-images.githubusercontent.com/119749518/212466578-54d55d8f-9e3c-45a0-8590-b9c310021b84.png)
+
 
 <h3><I>Favourite Ridebale type (Based on Overall Data)</I></h3>
-Electric bike is the favourite bike with <b>55.20%</b> of share, then comes the classic bike and docked bike with <b>43.04% and 1.76%</b> of share respectievly.
+Electric bike is the favourite bike with <b>57.76%</b> of share, then comes the classic bike and docked bike with <b>40.16% and 2.08%</b> of share respectievly.
 
-
-![Favourite rideable type](https://user-images.githubusercontent.com/119749518/212463867-bdf45268-bd46-4245-ba4a-540255c3d075.png)
-
+![Favourite rideable type](https://user-images.githubusercontent.com/119749518/212466590-5e86e6b0-cb7b-4a4d-9e6a-01cf887d34eb.png)
 
 
 <h2>Conclusion and Recommendations</h2>
