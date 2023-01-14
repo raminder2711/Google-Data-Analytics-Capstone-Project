@@ -100,7 +100,7 @@ It is observed that traffic of both casual and member riders reduced in November
 - As per Average ride time the <b>favourite bike</b> for <b>long distances is docked bike </b>with <b>66% share</b>.
 - As per Overall data the <b>favourite bike</b> for <b>short distances is electric bike </b>with <b>57.76% share</b>.
 - The average ride time of casual riders is <b>close to 22 minutes</b>, however the same for member riders is <b>12 and half minutes.</b>
-- <b>A common observation</b>is that casual riders are using the bike rentals for far distances and even when usage by members is higher but they are using it for the short distances.
+- <b>A common observation</b> is that casual riders are using the bike rentals for far distances and even when usage by members is higher but they are using it for the short distances.
 
 <h2>Recommendations</h2>
 
