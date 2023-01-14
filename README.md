@@ -54,7 +54,7 @@ As the distance between start point and end point is not provided, so it was ass
 <h2>Analysis and Viz (Excel)</h2>
 
 <h3><I>Average Ride Length</I></h3>
-The Average ride length of casual riders is more than the ride length of member riders. This greately signifies that our cycles are used more by the casual riders.
+The Average ride length of casual riders is more than the ride length of member riders. This greately signifies that our bikes are used more by the casual riders.
 
 
 ![Average ride_length](https://user-images.githubusercontent.com/119749518/211985058-d8885540-5664-4136-bb39-8261bff26359.png)
@@ -106,6 +106,7 @@ It is observed that traffic of both casual and member riders reduced in November
 
 - Targetted on-ground marketing strategies should be placed to convert casual riders to members on <b>Saturday and Sunday's</b> as most casual riders traffic come on these days i.e. (<b>63,277 and 56,397</b>) respectively.
 - Discounting campaigns for new members should be initiated to lure the casual riders to enrol for members.
+- More study is required as why for long distances based on average ride time docked bike is preferred by <b>66% share</b>. However, for shorter distances or for less ride time the electric bike is preffered with <b>57.76% share</b>.
 
 
  
