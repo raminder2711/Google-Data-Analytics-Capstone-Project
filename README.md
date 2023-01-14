@@ -9,6 +9,7 @@
 - Business Task<br>
 - Data<br>
 - Tools<br>
+- Data Limitation<br>
 - Data Cleaning <br>
 - Analysis and Viz(Excel) <br>
 - Analysis and Viz(Tableau) <br>
@@ -35,6 +36,10 @@ Welcome to the Cyclistic bike-share analysis case study! This case study, will p
 <h3>Data Visualisation and Data Analysis Tools</h3>
 - MS Excel<br>
 - Tableau<br>
+
+<h2>Data Limitation</h2>
+As the distance between start point and end point is not provided, so it was assumed that long time taken is due to the long distance one has to cover to reach to their destinations.
+
 
 <h2>Data Cleaning (MS Excel)</h2>
 
@@ -76,24 +81,31 @@ It is observed that Wednesday and Saturday generates high traffic for member and
 ![Day wise Traffic](https://user-images.githubusercontent.com/119749518/212466578-54d55d8f-9e3c-45a0-8590-b9c310021b84.png)
 
 
-<h3><I>Favourite Ridebale type (Based on Overall Data)</I></h3>
+<h3><I>Favourite Rideable type (Based on Overall Data)</I></h3>
 Electric bike is the favourite bike with <b>57.76%</b> of share, then comes the classic bike and docked bike with <b>40.16% and 2.08%</b> of share respectievly.
 
 ![Favourite rideable type](https://user-images.githubusercontent.com/119749518/212466590-5e86e6b0-cb7b-4a4d-9e6a-01cf887d34eb.png)
 
+<h3><I>Month Wise Traffic(Based on Overall Data)</I></h3>
+It is observed that traffic of both casual and member riders reduced in November. However, members usage in both the months was greater than the casuals.
 
-<h2>Conclusion and Recommendations</h2>
+![Month Wise Traffic](https://user-images.githubusercontent.com/119749518/212467713-dc1927e7-0e62-49e3-b02f-cfd3ec7218de.png)
 
-- A common observation is that casual riders are using the bike rentals more than the member riders.
-- Targetted on-ground marketing strategies to convert casual riders to members.
+
+<h2>Conclusion</h2>
+<b>Interesting findings were discovered once the data based on Average ride time and Overall data was compared.</b>
+
+- As per Average ride time the busiest day was <b>Sunday</b>, which means that people are using the bikes for <b><u>long  distances on Sunday's</b></u>. 
+- As per overall data the busiest days were <b>Wednesday and Saturday</b> which means that people are using the bikes for <b>short distances on Wednesday and Saturday</b>.
+- As per Average ride time the <b>favourite bike</b> for <b>long distances is docked bike </b>with <b>66% share</b>.
+- As per Overall data the <b>favourite bike</b> for <b>short distances is electric bike </b>with <b>57.76% share</b>.
+- The average ride time of casual riders is <b>close to 22 minutes</b>, however the same for member riders is <b>12 and half minutes.</b>
+- <b>A common observation</b>is that casual riders are using the bike rentals for far distances and even when usage by members is higher but they are using it for the short distances.
+
+<h2>Recommendations</h2>
+
+- Targetted on-ground marketing strategies should be placed to convert casual riders to members on <b>Saturday and Sunday's</b> as most casual riders traffic come on these days i.e. (<b>63,277 and 56,397</b>) respectively.
 - Discounting campaigns for new members should be initiated to lure the casual riders to enrol for members.
 
 
-  
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+ 
