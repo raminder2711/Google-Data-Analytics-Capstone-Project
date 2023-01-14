@@ -1,4 +1,4 @@
-# Google Data Analytics Capstone Project
+# Google Data Analytics Capstone Project (Excel only)
 ![Image_Bike](https://user-images.githubusercontent.com/119749518/211970785-a7ca2157-7010-42d0-8543-e4dea4be6c59.png)
 <h2>Case Study: How Does a Bike-Share Navigate Speedy Success?</h2>
 
@@ -25,6 +25,10 @@ Welcome to the Cyclistic bike-share analysis case study! This case study, will p
 
 <h2>Data</h2>
 <b>License</b>: The data has been made available by Motivate International Inc. under below license.
+
+<h2>Tools</h2>
+I have used only MS Excel for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis. 
+
 
 [Check Here](https://www.divvybikes.com/data-license-agreement)
 
