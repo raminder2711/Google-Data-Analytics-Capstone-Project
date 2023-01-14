@@ -105,7 +105,7 @@ It is observed that traffic of both casual and member riders reduced in November
 <h2>Recommendations</h2>
 
 - Targetted on-ground marketing strategies should be placed to convert casual riders to members on <b>Saturday and Sunday's</b> as most casual riders traffic come on these days i.e. (<b>63,277 and 56,397</b>) respectively.
-- Discounting campaigns for new members should be initiated to lure the casual riders to enrol for members.
+- Discounting campaigns for new members should be initiated to lure the casual riders to enrol for membership.
 - More study is required as why for long distances based on average ride time docked bike is preferred by <b>66% share</b>. However, for shorter distances or for less ride time the electric bike is preffered with <b>57.76% share</b>.
 
 
