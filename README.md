@@ -102,6 +102,7 @@ It is observed that traffic of both casual and member riders reduced in November
 - The average ride time of casual riders is <b>close to 22 minutes</b>, however the same for member riders is <b>12 and half minutes.</b>
 - <b>A common observation</b> is that casual riders are using the bike rentals for far distances and even when usage by members is higher but they are using it for the short distances.
 
+
 <h2>Recommendations</h2>
 
 - Targetted on-ground marketing strategies should be placed to convert casual riders to members on <b>Saturday and Sunday's</b> as most casual riders traffic come on these days i.e. (<b>63,277 and 56,397</b>) respectively.
